@@ -42,6 +42,10 @@ Developed by: LAKSHA M
 RegisterNumber:  212224220050
 */
 
+```
+
+#Sourcecode.java:
+```
 import java.util.Scanner;
 
 public class ExamRoomAllotment {
@@ -67,11 +71,7 @@ public class ExamRoomAllotment {
        }
    }
 }
-
 ```
-
-
-
 ## OUTPUT:
 
 <img width="479" height="388" alt="514012899-e2a1b0e9-5456-46b8-a7c6-dfe62151a4a5" src="https://github.com/user-attachments/assets/a0ea7745-19ca-4bad-895c-b2288a8ce610" />
