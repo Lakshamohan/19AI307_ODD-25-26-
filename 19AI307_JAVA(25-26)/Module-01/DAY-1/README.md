@@ -33,6 +33,11 @@ Developed by: LAKSHA M
 RegisterNumber: 212224220050
 */
 
+```
+
+
+# Sourcecode.java:
+```
 import java.util.*;
 public class Main{
    public static void main(String[] args){
@@ -42,9 +47,6 @@ public class Main{
    }
 }
 ```
-
-
-
 
 
 ## OUTPUT:
